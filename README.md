@@ -1,9 +1,11 @@
 # Hi there, I'm Mosong Cyrus 👋
 
 [![Visits Badge](https://badges.pufler.dev/visits/mosong-cyrus/mosong-cyrus)](https://github.com/mosong-cyrus)
-[![Twitter Badge](https://img.shields.io/badge/-@yourTwitterHandle-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourTwitterHandle)](https://twitter.com/yourTwitterHandle)
-[![Linkedin Badge](https://img.shields.io/badge/-yourLinkedin-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourLinkedin)](https://www.linkedin.com/in/yourLinkedin)
+[![X Badge](https://img.shields.io/badge/-@Mosong001-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/Mosong001)](https://x.com/Mosong001)
+[![Linkedin Badge](https://img.shields.io/badge/-mosongcyrus-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mosongcyrus)](https://www.linkedin.com/in/mosongcyrus)
 [![GitHub followers](https://img.shields.io/github/followers/mosong-cyrus?label=Follow&style=social)](https://github.com/mosong-cyrus)
+
+![Header](https://yourimageurl.com/header.png) <!-- Optional: Add a header image -->
 
 ## About Me
 
@@ -14,9 +16,9 @@ I'm a passionate software developer specializing in Python, deep learning, and f
 - 👯 I’m looking to collaborate on: Open Source Projects
 - 🤔 I’m looking for help with: Building scalable web applications
 - 💬 Ask me about: Python, Machine Learning, Financial Modeling
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [mosongcyrus@gmail.com](mailto:mosongcyrus@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and playing chess.
+- ⚡ Fun fact: Everyone has an idea, but the problem is putting the idea into reality.
 
 ## 🛠️ Technologies & Tools
 
@@ -35,6 +37,7 @@ I'm a passionate software developer specializing in Python, deep learning, and f
 ## 📈 GitHub Stats
 
 ![Mosong Cyrus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosong-cyrus&show_icons=true&count_private=true&hide=stars&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosong-cyrus&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
@@ -42,11 +45,14 @@ I'm a passionate software developer specializing in Python, deep learning, and f
 
 ## 🔗 Connect with Me
 
-- [Twitter](https://twitter.com/yourTwitterHandle)
-- [LinkedIn](https://www.linkedin.com/in/yourLinkedin)
-- [Portfolio](https://yourportfolio.com)
+- [X](https://x.com/Mosong001)
+- [LinkedIn](https://www.linkedin.com/in/mosongcyrus)
+- [Portfolio](https://yourportfolio.com) <!-- Optional: Add your portfolio link -->
 
 ## 🌟 Featured Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mosong-cyrus&repo=financial-web-app&theme=radical)](https://github.com/mosong-cyrus/financial-web-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mosong-cyrus&repo=another-repo&theme=radical)](https://github.com/mosong-cyrus/another-repo)
+
+<!-- Optional: Add a footer image or message -->
+![Footer](https://yourimageurl.com/footer.png)
