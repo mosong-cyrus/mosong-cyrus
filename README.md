@@ -51,8 +51,5 @@ I'm a passionate software developer specializing in Python, deep learning, and f
 
 ## 🌟 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mosong-cyrus&repo=financial-web-app&theme=radical)](https://github.com/mosong-cyrus/financial-web-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mosong-cyrus&repo=another-repo&theme=radical)](https://github.com/mosong-cyrus/another-repo)
-
 <!-- Optional: Add a footer image or message -->
-![Footer]([https://yourimageurl.com/footer.png](https://imgs.search.brave.com/gPu56iwtce4tyvSj3PQUWXkHUx0jpipIXtcJO7mMmGc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZXJv/a2VsbC5pby9maWxl/cy96eC96eHdqdTNo/YS5NYWNoaW5lLWxl/YXJuaW5nLXZzLWRl/ZXAtbGVhcm5pbmcu/anBn))
+![Footer](https://imgs.search.brave.com/gPu56iwtce4tyvSj3PQUWXkHUx0jpipIXtcJO7mMmGc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZXJv/a2VsbC5pby9maWxl/cy96eC96eHdqdTNo/YS5NYWNoaW5lLWxl/YXJuaW5nLXZzLWRl/ZXAtbGVhcm5pbmcu/anBn)
