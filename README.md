@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mosongcyrus-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mosongcyrus)](https://www.linkedin.com/in/mosongcyrus)
 [![GitHub followers](https://img.shields.io/github/followers/mosong-cyrus?label=Follow&style=social)](https://github.com/mosong-cyrus)
 
-![Header](https://imgs.search.brave.com/Z2DPq_mmyIdqIeqrrNV48xPcfvx2AKCPpfJneHH5JXM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzVjYjVl/OWJlYjc1ZjliMjNj/NjQ2NmRlZS8zOjIv/d18xMjgwLGNfbGlt/aXQvQnVzaW5lc3Mt/VEVELURvcnNleS0x/MTM0NDc0OTg5Lmpw/Zw) <!-- Optional: Add a header image -->
+![Header](https://imgs.search.brave.com/Z2DPq_mmyIdqIeqrrNV48xPcfvx2AKCPpfJneHH5JXM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzVjYjVl/OWJlYjc1ZjliMjNj/NjQ2NmRlZS8zOjIv/d18xMjgwLGNfbGlt/aXQvQnVzaW5lc3Mt/VEVELURvcnNleS0x/MTM0NDc0OTg5Lmpw/Zw) <!-- New header image URL -->
 
 ## About Me
 
@@ -55,4 +55,4 @@ I'm a passionate software developer specializing in Python, deep learning, and f
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mosong-cyrus&repo=another-repo&theme=radical)](https://github.com/mosong-cyrus/another-repo)
 
 <!-- Optional: Add a footer image or message -->
-![Footer](https://yourimageurl.com/footer.png)
+![Footer]([https://yourimageurl.com/footer.png](https://imgs.search.brave.com/gPu56iwtce4tyvSj3PQUWXkHUx0jpipIXtcJO7mMmGc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZXJv/a2VsbC5pby9maWxl/cy96eC96eHdqdTNo/YS5NYWNoaW5lLWxl/YXJuaW5nLXZzLWRl/ZXAtbGVhcm5pbmcu/anBn))
