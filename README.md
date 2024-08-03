@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mosongcyrus-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mosongcyrus)](https://www.linkedin.com/in/mosongcyrus)
 [![GitHub followers](https://img.shields.io/github/followers/mosong-cyrus?label=Follow&style=social)](https://github.com/mosong-cyrus)
 
-![Header](https://yourimageurl.com/header.png) <!-- Optional: Add a header image -->
+![Header](https://imgs.search.brave.com/Z2DPq_mmyIdqIeqrrNV48xPcfvx2AKCPpfJneHH5JXM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzVjYjVl/OWJlYjc1ZjliMjNj/NjQ2NmRlZS8zOjIv/d18xMjgwLGNfbGlt/aXQvQnVzaW5lc3Mt/VEVELURvcnNleS0x/MTM0NDc0OTg5Lmpw/Zw) <!-- Optional: Add a header image -->
 
 ## About Me
 
